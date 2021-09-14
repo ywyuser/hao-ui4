@@ -1,0 +1,103 @@
+{
+  "指南": [
+    {
+      "name": "giud",
+      "path": "/giud",
+      "desc": "介绍"
+    },
+    {
+      "name": "install",
+      "path": "/install",
+      "desc": "安装"
+    },
+    {
+      "name": "start",
+      "path": "/start",
+      "desc": "开始"
+    }
+  ],
+  "组件": [
+    {
+      "desc": "basic",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "Icon 图标",
+          "name": "icon",
+          "path": "/icon"
+        },
+        {
+          "desc": "Button 按钮",
+          "name": "button",
+          "path": "/button"
+        }
+      ]
+    },
+    {
+      "desc": "notice",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "message 消息提示",
+          "name": "message",
+          "path": "/message"
+        }
+      ]
+    },
+    {
+      "desc": "view",
+      "path": "/component",
+      "items": [
+        {
+          "desc": "ModalMore 多窗体",
+          "name": "modalMore",
+          "path": "/modalMore"
+        },
+        {
+          "desc": "BreadCrumb 面包屑",
+          "name": "breadCrumb",
+          "path": "/breadCrumb"
+        },
+        {
+          "desc": "PayPwd 支付密码",
+          "name": "payPwd",
+          "path": "/payPwd"
+        }
+      ]
+    }
+  ],
+  "js工具库": [
+    {
+      "name": "lodash",
+      "path": "/lodash",
+      "desc": "lodash"
+    }
+  ],
+  "笔记": [
+    {
+      "name": "create",
+      "path": "/create",
+      "desc": "项目创建"
+    },
+    {
+      "name": "md2vue",
+      "path": "/md2vue",
+      "desc": "md2vue"
+    },
+    {
+      "name": "theme",
+      "path": "/theme",
+      "desc": "样式管理"
+    },
+    {
+      "name": "iconfont",
+      "path": "/iconfont",
+      "desc": "Iconfont"
+    },
+    {
+      "name": "deploy",
+      "path": "/deploy",
+      "desc": "github部署"
+    }
+  ]
+}
