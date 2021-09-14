@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "vue-cli-service serve",
-    "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "build": "vue-cli-service build"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -15,23 +14,23 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "@vue/compiler-sfc": "^3.0.0",
-    "less": "^4.1.1",
     "highlight.js": "^10.0.0",
+    "less": "^4.1.1",
     "style-loader": "^3.2.1",
     "stylus": "^0.55.0",
     "stylus-loader": "^3.0.2",
+    "transliteration": "^1.6.6",
+    "uglifyjs-webpack-plugin": "^1.1.1",
+    "url-loader": "^0.5.8",
     "vue": "^2.5.2",
-    "vue-loader": "^13.3.0",
+    "vue-loader": "^15.9.8",
+    "vue-loader-v16": "^16.0.0-beta.5.4",
     "vue-markdown-loader": "^2.4.1",
     "vue-router": "^3.0.1",
     "vue-style-loader": "^3.0.1",
     "vue-template-compiler": "^2.5.2",
-    "vue2-animate": "^2.1.0",
-    "transliteration": "^1.6.6",
-    "uglifyjs-webpack-plugin": "^1.1.1",
-    "url-loader": "^0.5.8"
+    "vue2-animate": "^2.1.0"
   }
 }
